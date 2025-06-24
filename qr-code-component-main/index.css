@@ -1,0 +1,17 @@
+body{
+    font-family: sans-serif;
+    background: rgb(205, 225, 248);
+}
+main{
+    margin: 20px 480px;
+    width: 400px;
+    justify-content: center;
+    background: white;
+    padding: 15px;
+    border-radius: 20px; 
+    height: 15cm;
+}
+img{
+    width: 400px;
+    border-radius: 10px; 
+}
